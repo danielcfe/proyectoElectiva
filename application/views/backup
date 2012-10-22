@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Welcome to CodeIgniter</title>
+
+	<link rel="stylesheet" href="css/home.css">
+
+</head>
+<body>
+
+<div id="templatemo_top_wrapper">
+	<div id="templatemo_top">
+		<div id="templatemo_header">            
+			<code class = "Membrete">
+			</code> 
+			<code class = "Menu">
+				<div id="templatemo_menu">
+                <ul>
+                    <li><a href="#" class="current">Inicio</a></li>
+                    <li><a href="" target="_parent">Reservas</a></li>
+                    <li><a href="" target="_parent">Pagos</a></li>
+                    <li><a href="" target="_parent">Horarios</a></li>
+                    <li><a href="" target="_parent">Consultas</a></li>
+                    <li><a href="" target="_parent">Galeria</a></li>
+                </ul>
+                
+                <div id="search_box">
+                    <form action="#" method="post">
+                        <input type="text" value="Buscar..." name="q" size="10" id="searchfield" title="searchfield" onfocus="clearText(this)" onblur="clearText(this)" />
+                        <input type="submit" name="Search" value="" id="searchbutton" title="Search" />
+                    </form>
+                </div>
+                <div class="cleaner"></div>
+            </div> <!-- end of templatemo_menu -->
+			</code>
+		</div> <!-- end of header -->
+	</div> <!-- end of top -->
+</div> <!-- end of top wrapper -->
+
+<div id= "body">
+	<div id="container">
+		<h1>Agencia de vuelos</h1>
+
+		<div id="body">
+			<p>prueba (Reserva de boletos)</p>
+
+			<!-- <p class = "code">If you would like to edit this page you'll find it located at:</p> -->
+			<br>
+			<code>Agregar editar, eliminar, consultar</code>
+
+			<p>Informaciones galerias</p>
+			<code>etc etc xD</code>
+
+			<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
+		</div>
+
+		<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
+	</div>
+</div>
+
+<div id="templatemo_footer_wrapper_01">
+	<div id="templatemo_footer_wrapper_02">
+    	<div id="templatemo_footer">
+        	
+            <div class="col_w225">
+            	<h5>Contactos</h5>
+            	<div class="col_w225_content">
+                    Mierdin Tel: 555-5-5-555<br />
+                    David tel: 5456-464-66<br />
+                    Daniel tel: no tiene <br />
+                    Leo tel: no es del grupo<br />
+                    Email: Tekorita@gmail.com
+				</div>
+            </div>
+            
+            <div class="col_w225">
+            	<h5>Infor general</h5>
+                <div class="col_w225_content"> blaa bllaaa blaa blaa blaaa blaaa blaaa blaaa</div>
+          	</div>
+          
+            <div class="col_w225">
+            	<h5>Partners</h5>
+                <div class="col_w225_content">
+                <ul class="tmo_footer_list">
+                	<li><a href="http://www.templatemo.com">Free CSS Templates</a></li>
+                    <li><a href="http://www.flashmo.com">Free Flash Templates</a></li>
+                    <li><a href="http://www.webdesignmo.com/blog">Web Design</a></li>
+                    <li><a href="http://www.koflash.com">Flash Websites</a></li>
+                </ul>
+                </div>
+            </div>
+            
+            <div class="col_w225 col_last">
+            	<h5>Copyright</h5>
+                <div class="col_w225_content">
+                  <div>todos los derechos reservados<br />
+                </div>
+                </div>
+            </div>
+            
+            <div class="cleaner h20"></div>
+            
+            <div align="center">
+                Copyright © 2048 <a href="#">Your Company Name</a> | 
+                Designed by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>
+            </div>
+        </div>
+    </div> <!-- end of footer wrapper -->
+</div> <!-- end of footer wrapper 01 -->
+
+
+</body>
+</html>
